@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArjunKurkal
 - 👀 I’m interested in Computer Science, Finance, Business, and Disc Golf
-- 🌱 I’m currently learning Unreal Engine, C++
+- 🌱 I’m currently learning Penetration Testing, C++, Scheme
 - 💞️ I’m looking to collaborate on Gaming
 - 📫 Reach Me at arjunkurkal@gmail.com
 
